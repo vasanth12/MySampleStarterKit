@@ -1,5 +1,6 @@
-import React from 'react';
+
 import ReactDOM from 'react-dom';
+import React from 'react';
 
 import {Link} from 'react-router';
 import '../components/css/footer.css';
